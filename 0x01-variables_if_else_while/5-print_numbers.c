@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Program that prints all strings from 0 to 9
+ * main - Program that prints all single numbers of base 10
  * Return: Always 0
  */
 int main(void)
