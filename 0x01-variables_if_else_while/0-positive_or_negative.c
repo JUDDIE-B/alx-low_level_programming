@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main - Prints if the number is positive, negative or 0
- * Return: Always 0
+ * main - Determine if a number is positive, negative or 0
+ * Return: 0 (Success)
  */
 int main(void)
 {
