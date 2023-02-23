@@ -1,10 +1,10 @@
 #include "main.h"
-
 /**
- * main - Program that prints putchar
- *
- * Return: Always 0.
+ * main - Program that prints _putchar
+ * is written by mbah
+ * Return: 0
  */
+
 int main(void)
 {
 	_putchar('_');
